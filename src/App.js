@@ -7,7 +7,7 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-    <div style={{ background: "#141414" }}>
+    <div style={{ background: "#050505" }}>
       <Menu />
 
       <BannerMain
@@ -32,6 +32,16 @@ function App() {
       <Carousel
         category={dadosIniciais.categorias[3]}
       />
+      
+      <Carousel
+        category={dadosIniciais.categorias[4]}
+      />
+      
+      <Carousel
+        category={dadosIniciais.categorias[5]}
+      />
+
+      {console.log(dadosIniciais.categorias)}
 
       <Footer />
     </div>
