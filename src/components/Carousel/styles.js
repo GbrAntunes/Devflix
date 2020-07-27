@@ -2,13 +2,13 @@ import styled from 'styled-components';
 
 export const Title = styled.h3`
   font-style: normal;
-  font-weight: normal;
+  font-weight: 500;
   font-size: 35px;
   line-height: 1;
   margin-bottom: 16px;
   display: inline-block;
-  padding: 20px;
-  background: red;
+  padding: 20px 0;
+  /* background: red; */
   line-height: 1;
   border-radius: 4px;
 
@@ -44,6 +44,22 @@ export const VideoCardList = styled.ul`
   
   li {
     margin-right: 16px;
+  }
+
+  ::-webkit-scrollbar {
+    height: 5px;
+    background-color: rgba(255,255,255, 0);
+  }
+
+  ::-webkit-scrollbar-track {
+    background-color: #101010;
+    height: 5px;
+    border-radius: 5px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.2);
   }
 `;
 
