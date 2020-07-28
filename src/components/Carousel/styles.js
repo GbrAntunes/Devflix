@@ -5,12 +5,7 @@ export const Title = styled.h3`
   font-weight: 500;
   font-size: 35px;
   line-height: 1;
-  margin-bottom: 16px;
-  display: inline-block;
-  padding: 20px 0;
-  /* background: red; */
-  line-height: 1;
-  border-radius: 4px;
+  margin-bottom: 5px;
 
   @media (max-width: 800px) {
     font-size: 18px;
@@ -18,8 +13,15 @@ export const Title = styled.h3`
   }
 `;
 
+export const TitleContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 25px;
+`
+
 export const ExtraLink = styled.a`
-  margin-left: 16px;
+  /* margin-bottom: 16px; */
+  color: rgba(255, 255, 255, 0.4);
   text-decoration: none;
   transition: opacity .3s;
   &:hover,
