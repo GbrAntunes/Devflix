@@ -1,46 +1,50 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Front-End",
+      "link": "https://www.youtube.com/playlist?list=PLq1ryz8LqgFrw41x_7_Y7HXIF2EnkVd4H",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Front-End no youtube",
+        "url": "https://www.youtube.com/playlist?list=PLq1ryz8LqgFrw41x_7_Y7HXIF2EnkVd4H"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Boas práticas no front-end, técnicas e estratégias",
+          "url": "https://www.youtube.com/watch?v=L0zuZYh800Q&list=PLq1ryz8LqgFrw41x_7_Y7HXIF2EnkVd4H&index=4&t=0s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Desvendando o CSS grid na prática",
+          "url": "https://www.youtube.com/watch?v=HN1UjzRSdBk&list=PLq1ryz8LqgFrw41x_7_Y7HXIF2EnkVd4H&index=6&t=683s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Como fazer o botão do Material Design?",
+          "url": "https://www.youtube.com/watch?v=YyoSLwngaKs&list=PLq1ryz8LqgFrw41x_7_Y7HXIF2EnkVd4H&index=7&t=0s"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Fluid image Pop Up Javascript",
+          "url": "https://www.youtube.com/watch?v=4SQXOA8Z-lo&list=PLq1ryz8LqgFrw41x_7_Y7HXIF2EnkVd4H&index=11&t=48s"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Criando um carousel do zero só com CSS",
+          "url": "https://www.youtube.com/watch?v=SGwHpzgqzgk&list=PLq1ryz8LqgFrw41x_7_Y7HXIF2EnkVd4H&index=2&t=0s"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Top 10 CSS tricks you don't know",
+          "url": "https://www.youtube.com/watch?v=CxC925yUxSI&list=PLq1ryz8LqgFrw41x_7_Y7HXIF2EnkVd4H&index=12&t=1291s"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Animações do After Effects no React Native com Lottie",
+          "url": "https://www.youtube.com/watch?v=V3QGW2PgKKY&list=PLq1ryz8LqgFrw41x_7_Y7HXIF2EnkVd4H&index=5&t=0s"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Como centralizar no CSS?",
+          "url": "https://www.youtube.com/watch?v=Cu-HP-gvggg&list=PLq1ryz8LqgFrw41x_7_Y7HXIF2EnkVd4H&index=8&t=0s"
+        },
+        {
+          "titulo": "Twitter responsivo com ReactJS",
+          "url": "https://www.youtube.com/watch?v=K-8z_4xvT3o&list=PLq1ryz8LqgFrw41x_7_Y7HXIF2EnkVd4H&index=3&t=0s"
+        }
       ]
     },
     {
@@ -70,32 +74,6 @@
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
         }
       ]
     },
@@ -130,24 +108,24 @@
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Avowed",
+          "url": "https://www.youtube.com/watch?v=MN17k6P4XVw"
         },
         {
           "titulo": "Assassins Creed Valhalla",
           "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Dark Souls III",
+          "url": "https://www.youtube.com/watch?v=_zDZYrIUgKE"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "FarCry 5",
+          "url": "https://www.youtube.com/watch?v=NyfSm5juldU"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Borderlands III",
+          "url": "https://www.youtube.com/watch?v=d9Gu1PspA3Y"
         }
       ]
     },
