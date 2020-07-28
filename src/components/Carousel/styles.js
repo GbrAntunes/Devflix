@@ -47,19 +47,24 @@ export const VideoCardList = styled.ul`
   }
 
   ::-webkit-scrollbar {
-    height: 5px;
+    height: 6px;
     background-color: rgba(255,255,255, 0);
   }
 
   ::-webkit-scrollbar-track {
     background-color: #101010;
-    height: 5px;
+    height: 6px;
     border-radius: 5px;
   }
 
   ::-webkit-scrollbar-thumb {
     border-radius: 5px;
     background-color: rgba(255, 255, 255, 0.2);
+    transition: 0.2s;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(255, 255, 255, 0.3);
   }
 `;
 
